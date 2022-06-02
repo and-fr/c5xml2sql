@@ -1,4 +1,4 @@
-# Sid Meier's Civilization V: XML to SQL code converter.
+# :earth_africa: Sid Meier's Civilization V: XML to SQL code converter.
 This is a tool to convert code from XML based files to SQL type files.
 
 ## REQUIREMENTS
