@@ -1,0 +1,32 @@
+.root {
+    -fx-background: white;
+}
+
+.menu-bar {
+    -fx-background-color: #eeeeee;
+}    
+
+.menu-bar .context-menu {
+    -fx-effect: null;
+}
+
+.text-area {
+    -fx-font-family: Consolas;
+    -fx-background-color: white;
+    -fx-faint-focus-color: white;
+}
+
+.text-area .content {
+    -fx-background-color: white;
+  
+}
+
+.progress-bar .bar { 
+    -fx-padding: 4px; 
+    -fx-background-insets: 0;
+}
+
+.progress-bar > .track {
+    -fx-background-color: #eeeeee;
+    -fx-background-radius: 0;
+}
