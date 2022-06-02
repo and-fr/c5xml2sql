@@ -13,3 +13,6 @@ After building the project with proper Java installed:
 
 ## Additional notes
 This program is a simple parser. If you have XML files with proper syntax and values then this utility should convert all to SQL files just fine. However if there are incorrect game values in XML files, this tool won't fix those at all, though such issues may be easier to recognize after conversion to SQL.
+
+## Screenshots
+![c5xml2sql](https://user-images.githubusercontent.com/80594221/171723872-ecda37c9-a6db-4dc1-a734-c27031321307.png)
